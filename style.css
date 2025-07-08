@@ -5,6 +5,9 @@
     color: blueviolet;
     background-color: black;
 }
+main{
+    background-color: purple;
+}
 
 #titulo{
     padding: 15px 30px;
@@ -21,4 +24,12 @@
     flex-wrap: wrap;
     justify-content: space-between;
 
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
